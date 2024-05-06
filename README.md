@@ -5,22 +5,23 @@
 
 <i>Aqui são as linguagens de programação que mais utilizo no github</i>   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosLima&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCarlosLima&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 > Este é um modelo de setup para desenvolvimento. As principais ferramentas que utilizo na caminhada de desenvolvedor fullstack.
 
 <div align="center">
   
-|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="70" heigth="70"/>|<img src="https://docs.microsoft.com/pt-br/dotnet/images/hub/netcore.svg" width="70" heigth="70" />|<img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" width="70" heigth="70" />|<img src="https://mhartington.io/img/v4-upgrade/ionic-icon.png" width="70" heigth="70" />|<img src="https://brandslogos.com/wp-content/uploads/thumbs/java-logo-vector-1.svg" width="70" heigth="70" />|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="70" heigth="70"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" width="70" heigth="70"/>|<img src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="70" heigth="70" />|
-|-|-|-|-|-|-|-|-|
-|*v20.10.0*|*v2.2.100*|*v15.2.9*|*v6.20.9*|*v17.0.9 (JDK)*|*LTS*|*LTS*|*LTS*|
-|[Download](https://nodejs.org/dist/v20.10.0/)|[Download](https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-2.2.100-windows-x64-installer)|[Install](#angular)|[Install](#ionic)|[Download](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)|[Download](https://code.visualstudio.com/)|*[Download](https://developer.android.com/studio)*|[Download](https://learn.microsoft.com/pt-br/azure-data-studio/download-azure-data-studio?tabs=win-install%2Cwin-user-install%2Credhat-install%2Cwindows-uninstall%2Credhat-uninstall#download-azure-data-studio)|
+|<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="70" heigth="70"/>|<img src="https://docs.microsoft.com/pt-br/dotnet/images/hub/netcore.svg" width="70" heigth="70" />|<img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" width="70" heigth="70" />|<img src="https://mhartington.io/img/v4-upgrade/ionic-icon.png" width="70" heigth="70" />|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="70" heigth="70"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" width="70" heigth="70"/>|<img src="https://user-images.githubusercontent.com/17512287/46575879-3847d100-c9be-11e8-97dc-1d95d880c187.png" width="70" heigth="70" />|
+|-|-|-|-|-|-|-|
+|Nodejs|.Net Core SDK|Angular CLI|Ionic CLI|Vs Code|Android Studio|Azure Data Studio|
+|*v18.10.0*|*v2.2.100 (SDK)*|*v15.2.11*|*v6.20.9*|*LTS*|*LTS*|*LTS*|
+|[Download](https://nodejs.org/dist/v18.10.0/)|[Download](https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-2.2.100-windows-x64-installer)|[Install](#angular)|[Install](#ionic)|[Download](https://code.visualstudio.com/)|*[Download](https://developer.android.com/studio)*|[Download](https://learn.microsoft.com/pt-br/azure-data-studio/download-azure-data-studio)|
 
 </div>
 
 # Angular
-    npm i -g @angular/cli@15.2.9
+    npm i -g @angular/cli@15.2.11
 
 # Ionic
     npm install -g @ionic/cli@6.20.9
